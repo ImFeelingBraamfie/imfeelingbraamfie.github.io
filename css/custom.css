@@ -42,3 +42,151 @@ p {
 .center {
     text-align: center;
 }
+
+
+.brownBtn {
+    background-color: #5E4C42;
+}
+
+.brownText {    
+    color: #5E4C42;
+}
+
+.cornerLogo {
+
+    width: auto;
+    height: 100px;
+    padding-left: 11%; 
+    padding-top: 7%;
+
+}
+
+
+.mainHeading {
+    font-weight: 300;
+    text-align: center;
+}
+
+
+.navLinks {
+    text-align: right;
+    font-family: cinzel-regular;
+}
+
+
+
+@media (max-width: 615px) {
+    .cornerLogo {
+        height: 94px;
+    } 
+}
+
+
+@media (max-width: 580px) {
+    .cornerLogo {
+        height: 89px;
+    } 
+}
+
+
+@media (max-width: 500px) {
+    .cornerLogo {
+        height: 73px;
+    } 
+}
+
+@media (max-width: 460px) {
+    .mainHeading {
+        font-size: 3.5em;
+    } 
+
+    .cornerLogo {
+        height: 62px;
+    } 
+}
+
+
+@media (max-width: 410px) {
+    .mainHeading {
+        font-size: 3em;
+    } 
+
+    .cornerLogo {
+        height: 58px;
+    } 
+
+    .navLinks {
+        font-size: 0.9em;
+    }
+}
+
+
+
+
+@media (max-width: 380px) {
+    .mainHeading {
+        font-size: 2.9em;
+    } 
+
+    .cornerLogo {
+        height: 56px;
+    } 
+}
+
+
+@media (max-width: 340px) {
+    .mainHeading {
+        font-size: 2.7em;
+    } 
+
+}
+
+
+
+@media (max-width: 322px) {
+    .mainHeading {
+        font-size: 2.6em;
+    } 
+
+}
+
+
+@media (max-width: 310px) {
+    .mainHeading {
+        font-size: 2.2em;
+    } 
+
+   .navLinks{
+        font-size: 0.8em;
+   }
+  
+   .cornerLogo {
+         height: 49px;
+    } 
+}
+
+    
+
+/*
+@media (max-width: 570px) {
+    .mainHeading {
+        text-align: left;
+    } 
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
