@@ -2,12 +2,12 @@
 /*Heading Font*/ 
 @font-face {
     font-family: cinzel-regular;
-    src: url('fonts/Cinzel-Regular.otf');
+    src: url('../fonts/Cinzel-Regular.otf');
 }
 
 @font-face {
     font-family: cinzel-regular;
-    src: url('fonts/Cinzel-Bold.otf');
+    src: url('../fonts/Cinzel-Bold.otf');
     font-weight: bold;
 }
 
@@ -15,12 +15,12 @@
 /*Display Font*/
 @font-face {
     font-family: montserrat-regular;
-    src: url('fonts/Montserrat-Regular.ttf');
+    src: url('../fonts/Montserrat-Regular.ttf');
 }
 
 @font-face {
     font-family: montserrat-regular;
-    src: url('fonts/Montserrat-Bold.ttf');
+    src: url('/fonts/Montserrat-Bold.ttf');
     font-weight: bold;
 }
 
